@@ -29,9 +29,8 @@ https://drive.google.com/file/d/1BRzBIKrysWxX6Jn91E0JqMU5oABanZxV/view?usp=shari
 
 ## License
 
-License Link: None
+ None
 
-Copyright [yyyy] [name of copyright owner]
 
 ## Tests
 
