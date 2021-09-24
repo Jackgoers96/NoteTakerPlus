@@ -29,7 +29,10 @@ https://drive.google.com/file/d/1BRzBIKrysWxX6Jn91E0JqMU5oABanZxV/view?usp=shari
 
 ## License
 
- None
+Apache License 2.0
+2021 [Jack Goers]
+
+https://github.com/Jackgoers96/NoteTakerPlus/blob/main/LICENSE
 
 
 ## Tests
